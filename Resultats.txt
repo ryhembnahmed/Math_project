@@ -1,0 +1,7 @@
+* La fonction est : (1 - x)**2 + 100*(-x**2 + y)**2
+* La solution (xmin) = [0.98970113 0.9794745 ]
+* Valeur minimal de f (fmin) = 0.000106181151289848
+* Nombre des iterations effectués = 425
+* Vecteur de depart (x0) = [5.0, 6.0]
+* Pas de depart (alpha0) = 2.0
+---------------------------------------------------
